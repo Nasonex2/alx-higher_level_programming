@@ -8,7 +8,3 @@ def safe_print_division(a, b):
     finally:
         print("Inside result: {}".format(res))
         return res
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Term
